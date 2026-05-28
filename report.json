@@ -1,0 +1,63 @@
+{
+    "target_domain": "github.com",
+    "wordlist": "wordlist.txt",
+    "threads": 10,
+    "tested_count": 18,
+    "found_count": 9,
+    "subdomains": [
+        {
+            "subdomain": "admin.github.com",
+            "ip_address": "140.82.114.23",
+            "http_url": "https://admin.github.com",
+            "status_code": 200
+        },
+        {
+            "subdomain": "api.github.com",
+            "ip_address": "140.82.121.6",
+            "http_url": "https://api.github.com",
+            "status_code": 200
+        },
+        {
+            "subdomain": "blog.github.com",
+            "ip_address": "185.199.108.153",
+            "http_url": "https://blog.github.com",
+            "status_code": 200
+        },
+        {
+            "subdomain": "docs.github.com",
+            "ip_address": "185.199.108.154",
+            "http_url": "https://docs.github.com",
+            "status_code": 200
+        },
+        {
+            "subdomain": "shop.github.com",
+            "ip_address": "140.82.121.3",
+            "http_url": "https://shop.github.com",
+            "status_code": 200
+        },
+        {
+            "subdomain": "status.github.com",
+            "ip_address": "140.82.112.18",
+            "http_url": "https://status.github.com",
+            "status_code": 200
+        },
+        {
+            "subdomain": "support.github.com",
+            "ip_address": "185.199.111.133",
+            "http_url": "https://support.github.com",
+            "status_code": 200
+        },
+        {
+            "subdomain": "test.github.com",
+            "ip_address": "192.0.2.1",
+            "http_url": null,
+            "status_code": null
+        },
+        {
+            "subdomain": "www.github.com",
+            "ip_address": "140.82.121.3",
+            "http_url": "https://www.github.com",
+            "status_code": 200
+        }
+    ]
+}
