@@ -202,6 +202,4 @@ If a subdomain resolves successfully but does not respond over HTTP or HTTPS, it
 
 ## Disclaimer
 
-This tool is intended for educational purposes and basic security learning only.
-
-Use it only on domains you own or have permission to test.
+This tool is intended for educational purposes and security learning only.
